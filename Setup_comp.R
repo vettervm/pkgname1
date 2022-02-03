@@ -1,0 +1,8 @@
+usethis::use_mit_license(copyright_holder = "Ulfunkel")
+usethis::use_git_config(user.name = "sprocketsullivan", user.email = "toelch@gmail.com")
+usethis::use_git()
+usethis::create_github_token()
+gitcreds::gitcreds_set()
+usethis::use_github(private = TRUE)
+rrtools::use_readme_rmd()
+rrtools::use_analysis(data_in_git = FALSE)
