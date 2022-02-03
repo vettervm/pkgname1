@@ -3,7 +3,7 @@
 #set a license
 usethis::use_mit_license(copyright_holder = "Ulfunkel")
 #now we setup git without the terminal
-usethis::use_git_config(user.name = "sprocketsullivan", user.email = "toelch@gmail.com")
+usethis::use_git_config(user.name = "vettervm", user.email = "vetter.v@gmx.de")
 #this is a git init
 usethis::use_git()
 #now we create a token on git
