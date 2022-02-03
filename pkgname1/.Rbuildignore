@@ -4,3 +4,8 @@
 ^pkgname1.*\.tar\.gz$
 ^pkgname1.*\.tgz$
 ^LICENSE\.md$
+^README\.Rmd$
+^README-.*\.png$
+^CONDUCT\.md$
+^CONTRIBUTING\.md$
+analysis
